@@ -1,6 +1,5 @@
 ## Hi I'm Vinzent 👋
-I am very passionate Software Engineer from Germany with about ten years of practical experience.
-<p>I learned programming autodidactically with most of my experience in Java, Typescript and sufficient experience in PHP and C++.
+I'm a passionate self-taught software developer with over 10 years of experience, specializing in **Java**, **TypeScript** and **React**. I've built full-stack applications, developed libraries, and explored low-level programming, focusing on scalability and performance. I enjoy crafting efficient, flexible solutions and experimenting with complex type systems.
 
 ### Knowledge
 I have sufficient experience or expertise in following:
