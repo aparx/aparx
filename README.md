@@ -3,6 +3,7 @@ I am very passionate Software Engineer from Germany with about ten years of prac
 <p>I learned programming autodidactically with most of my experience in Java, Typescript and sufficient experience in PHP and C++.
 
 ### Knowledge
+I have sufficient experience or expertise in following:
 - **Languages:** Java, TypeScript, Sass/CSS, SQL (+ PL/pgSQL)
 - **Frameworks:** React, NextJS
 - **Tools**: Figma, Git, Vercel, Supabase, Maven, Gradle
@@ -14,3 +15,5 @@ Worth mentioning experiences:
 - Laravel, PHP 7.4-8.1 (_2019-2022_)
 - C, C++ (_2022-2023_)
 - jQuery (_2015-2019_)
+
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-8A2BE2)](https://aparx.dev)
