@@ -9,6 +9,7 @@ I have sufficient experience or expertise in following:
 - **ORMs**: Hibernate, ORMLite, Prisma, Supabase, Drizzle
 - **Databases**: PostgreSQL, MySQL
 - **Testing**: JUnit, Jest, Mocha
+- **Architectures:** Microservices, Monolithic, Monorepos, REST
 
 Worth mentioning experiences:
 - Laravel, PHP 7.4-8.1 (_2019-2022_)
