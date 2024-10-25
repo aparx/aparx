@@ -7,7 +7,7 @@ I have sufficient experience or expertise in following:
 - **Frameworks:** React, NextJS
 - **Tools**: Figma, Git, Vercel, Supabase, Maven, Gradle, AWS S3/Cloudflare R2
 - **ORMs**: Hibernate, ORMLite, Prisma, Supabase, Drizzle
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: PostgreSQL, MySQL, SQLite
 - **Testing**: JUnit, Jest, Mocha
 - **Architectures:** Microservices, Monolithic, Monorepos, REST
 
