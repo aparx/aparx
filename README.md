@@ -3,12 +3,12 @@ I'm a passionate self-taught software developer with over 10 years of experience
 
 ### Knowledge
 I have sufficient experience or expertise in following:
-- **Languages:** Java, TypeScript, Sass/CSS, SQL (+ PL/pgSQL)
-- **Frameworks:** React, NextJS
+- **Languages:** Java, TypeScript, Sass/CSS & Tailwind, SQL, PL/pgSQL
+- **Frameworks:** Astro, React, NextJS, Express, Fastify, ...
 - **Tools**: Figma, Git, Vercel, Supabase, Maven, Gradle, AWS S3/Cloudflare R2
 - **ORMs**: Hibernate, ORMLite, Prisma, Supabase, Drizzle
 - **Databases**: PostgreSQL, MySQL, SQLite
-- **Testing**: JUnit, Jest, Mocha
+- **Testing**: JUnit, Jest, Vitest, Mocha
 - **Architectures:** Microservices, Monolithic, Monorepos, REST
 
 Worth mentioning experiences:
