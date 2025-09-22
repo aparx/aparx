@@ -1,13 +1,19 @@
 ## Hi I'm Vinzent 👋
-I'm a passionate self-taught software developer with over 10 years of experience, specializing in **Java**, **TypeScript** and **React**. I've built full-stack applications, developed libraries, and explored low-level programming, focusing on scalability and performance. I enjoy crafting efficient, flexible solutions and experimenting with complex type systems.
+I think software is still craftsmanship. It's an art form: solving puzzles day to day, with my favorite tech stacks.
+
+I've spent the last 10 years developing, iterating, improving and building real products. From modifications with ~30,000 users up to full a cloud platform and different SaaS I've built and owned full-stack applications end-to-end, developed libraries, explored low-level programming, always focusing on scalability, performance, UX and (very importantly) DX.
+
+I like self-hosting and the devops associated with it, though I like practical engineering and theorizing about architecture more.
+
+I specialize in **React**, **TypeScript**, **Databases** and **Java**. But I am very open minded.
 
 ### Knowledge
 I have sufficient experience or expertise in following:
 - **Languages:** Java, TypeScript, Sass/CSS & Tailwind, SQL, PL/pgSQL
 - **Frameworks:** Astro, React, NextJS, Express, Fastify, ...
-- **Tools**: Figma, Git, Vercel, Supabase, Maven, Gradle, AWS S3/Cloudflare R2
+- **Tools**: Figma, Git, Vercel, Supabase, Maven, Gradle, AWS S3/Cloudflare R2, Dokploy, Coolify, ...
 - **ORMs**: Hibernate, ORMLite, Prisma, Supabase, Drizzle
-- **Databases**: PostgreSQL, MySQL, SQLite
+- **Databases**: PostgreSQL, MySQL, SQLite, ...
 - **Testing**: JUnit, Jest, Vitest, Mocha
 - **Architectures:** Microservices, Monolithic, Monorepos, REST
 
