@@ -1,7 +1,7 @@
-## Hi I'm Vinzent 👋
-I think software is still craftsmanship. It's an art form: solving puzzles day to day, with my favorite tech stacks.
+## Wassup 🎉
+I think software is still **craftsmanship** somewhere. It's an art form. Solving puzzles day to day, with my favorite tech stacks, laying the foundation for future engineers to iterate upon.
 
-I've spent the last 10 years developing, iterating, improving and building real products. From modifications with ~30,000 users up to full a cloud platform and different SaaS I've built and owned full-stack applications end-to-end, developed libraries, explored low-level programming, always focusing on scalability, performance, UX and (very importantly) DX.
+I've spent the last 10 years developing, iterating, improving and building **real products**. From modifications with **~30,000** users up to a cloud platform and different SaaS, I've built and owned full-stack applications end-to-end, developed libraries, explored low-level programming, always focusing on scalability, performance, UX and (very importantly) DX. I've also lead several QA stages and owned entire pipelines from A through Z.
 
 I like self-hosting and the devops associated with it, though I like practical engineering and theorizing about architecture more.
 
